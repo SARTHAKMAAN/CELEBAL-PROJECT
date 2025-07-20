@@ -1,0 +1,4 @@
+TransactionID,Customer ID,Product ID,Total Amount,Channel,MarketingCampaign
+1,101,501,500,Web,Campaign A
+2,102,502,300,Mobile,Campaign B
+3,103,501,700,In-Store,Campaign A
